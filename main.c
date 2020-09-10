@@ -3,7 +3,7 @@
 #include<readline/readline.h>
 #include <stdlib.h>
 int main(void) {
-  double grade = atof(readline("Enter your CMPSC131 grade: "));
+  double grade = atof(readline("Enter your CMPSC 131 grade: "));
   
   
   if  (grade>=93) {
